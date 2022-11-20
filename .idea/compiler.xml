@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tianbao-cms" />
+        <module name="tianbao-pms-api" />
+        <module name="tianbao-pay" />
+        <module name="tianbao-cms-api" />
+        <module name="tianbao-pay-api" />
+        <module name="tianbao-common-util" />
+        <module name="tianbao-dictionary" />
+        <module name="tianbao-ums-api" />
+        <module name="tianbao-cart-api" />
+        <module name="tianbao-dictionary-api" />
+        <module name="tianbao-sms-api" />
+        <module name="tianbao-sms" />
+        <module name="tianbao-job" />
+        <module name="tianbao-generator" />
+        <module name="tianbao-cart" />
+        <module name="tianbao-ums" />
+        <module name="tianbao-common-base" />
+        <module name="tianbao-manager-web" />
+        <module name="tianbao-portal-web" />
+        <module name="tianbao-oms" />
+        <module name="tianbao-oms-api" />
+        <module name="tianbao-pms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tianbao-tenant" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tianbao-api" options="-parameters" />
+      <module name="tianbao-cart" options="-parameters" />
+      <module name="tianbao-cart-api" options="-parameters" />
+      <module name="tianbao-cms" options="-parameters" />
+      <module name="tianbao-cms-api" options="-parameters" />
+      <module name="tianbao-common-base" options="-parameters" />
+      <module name="tianbao-common-util" options="-parameters" />
+      <module name="tianbao-dictionary" options="-parameters" />
+      <module name="tianbao-dictionary-api" options="-parameters" />
+      <module name="tianbao-generator" options="-parameters" />
+      <module name="tianbao-job" options="-parameters" />
+      <module name="tianbao-mall-parent" options="-parameters" />
+      <module name="tianbao-manager-web" options="-parameters" />
+      <module name="tianbao-oms" options="-parameters" />
+      <module name="tianbao-oms-api" options="-parameters" />
+      <module name="tianbao-pay" options="-parameters" />
+      <module name="tianbao-pay-api" options="-parameters" />
+      <module name="tianbao-pms" options="-parameters" />
+      <module name="tianbao-pms-api" options="-parameters" />
+      <module name="tianbao-portal-web" options="-parameters" />
+      <module name="tianbao-sms" options="-parameters" />
+      <module name="tianbao-sms-api" options="-parameters" />
+      <module name="tianbao-ums" options="-parameters" />
+      <module name="tianbao-ums-api" options="-parameters" />
+    </option>
+  </component>
+</project>

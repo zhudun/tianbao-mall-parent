@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6efc9cec-749a-41eb-a775-31a738320ca6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/tianbao-api/tianbao-pms-api">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/tianbao-api/tianbao-sms-api">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/tianbao-service/tianbao-sms">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Hl5MJZhp9Ns7MajopvOKzy7fBG" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tianbao-service/tianbao-ums/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30114943" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\simpleProject\tianbao-mall-parent\tianbao-service\tianbao-ums\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\simpleProject\tianbao-mall-parent\tianbao-service\tianbao-ums\src\main\java\com\yz\tianbaoums\mapper\xml" />
+      <recent name="E:\simpleProject\tianbao-mall-parent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMemberTest.testInsert">
+    <configuration name="MyFastAutoGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yz.tianbaogenerator.MyFastAutoGenerator" />
+      <module name="tianbao-generator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.tianbaogenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tianbaoGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yz.tianbaogenerator.tianbaoGenerator" />
+      <module name="tianbao-generator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.tianbaogenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMemberTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tianbao-ums" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.tianbaoums.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yz.tianbaoums.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.tianbaoums.mapper.UserMemberTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMemberTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tianbao-ums" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yz.tianbaoums.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yz.tianbaoums.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.yz.tianbaoums.mapper.UserMemberTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoCartApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-cart-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaocartapi.TianbaoCartApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaocart.TianbaoCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoCmsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-cms-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaocmsapi.TianbaoCmsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaocms.TianbaoCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoCommonBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-common-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaocommonbase.TianbaoCommonBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoCommonUtilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-common-util" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaocommonutil.TianbaoCommonUtilApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoDictionaryApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-dictionary-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaodictionaryapi.TianbaoDictionaryApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoDictionaryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-dictionary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaodictionary.TianbaoDictionaryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoGeneratorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaogenerator.TianbaoGeneratorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaojob.TianbaoJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoMallParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-mall-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaomallparent.TianbaoMallParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoManagerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-manager-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaomanagerweb.TianbaoManagerWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoOmsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-oms-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaoomsapi.TianbaoOmsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoOmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-oms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaooms.TianbaoOmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoPayApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-pay-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaopayapi.TianbaoPayApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaopay.TianbaoPayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoPmsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-pms-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaopmsapi.TianbaoPmsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-pms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaopms.TianbaoPmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoPorta1WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-portal-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaoporta1web.TianbaoPorta1WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoSmsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-sms-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaosmsapi.TianbaoSmsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaosms.TianbaoSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoUmsApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-ums-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaoumsapi.TianbaoUmsApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TianbaoUmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tianbao-ums" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yz.tianbaoums.TianbaoUmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMemberTest.testInsert" />
+        <item itemvalue="JUnit.UserMemberTest.testUpdate" />
+        <item itemvalue="Application.MyFastAutoGenerator" />
+        <item itemvalue="Application.tianbaoGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\qwzxy\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6efc9cec-749a-41eb-a775-31a738320ca6" name="Default Changelist" comment="" />
+      <created>1668846782505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668846782505</updated>
+      <workItem from="1668846783659" duration="22167000" />
+      <workItem from="1668871273392" duration="1602000" />
+      <workItem from="1668912854051" duration="5854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

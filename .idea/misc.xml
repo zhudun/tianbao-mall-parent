@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/tianbao-api/tianbao-pms-api" />
+    <file type="web" url="file://$PROJECT_DIR$/tianbao-api/tianbao-sms-api" />
+    <file type="web" url="file://$PROJECT_DIR$/tianbao-service/tianbao-sms" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-job/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-cms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-dictionary-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-pay-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-pms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-sms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-api/tianbao-ums-api/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-application/tianbao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-application/tianbao-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-common/tianbao-common-base/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-common/tianbao-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-dictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-oms/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-pms/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/tianbao-service/tianbao-ums/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>tianbao-mall-parent</artifactId>
+        <groupId>com.yz</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <modules>
+        <module>tianbao-cart-api</module>
+        <module>tianbao-cms-api</module>
+        <module>tianbao-dictionary-api</module>
+        <module>tianbao-oms-api</module>
+        <module>tianbao-pay-api</module>
+        <module>tianbao-pms-api</module>
+        <module>tianbao-sms-api</module>
+        <module>tianbao-ums-api</module>
+    </modules>
+    <artifactId>tianbao-api</artifactId>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>
